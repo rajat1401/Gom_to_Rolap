@@ -1,0 +1,11 @@
+Fact: Data1
+Attributes: a1(text), a2(text), 
+	Dimension: category2
+	Attributes: a5(text), 
+	Dimension: category1
+	Attributes: a3(text), a4(text), id(int), 
+		Dimension: category3
+		Attributes: a6(text), id(int), 
+
+
+

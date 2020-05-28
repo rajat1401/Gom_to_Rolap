@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SqlServerSample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SqlServerSample_jar</output-path>
+    <root id="archive" name="SqlServerSample.jar">
+      <element id="module-output" name="SqlServerSample" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/8.2.2.jre8/mssql-jdbc-8.2.2.jre8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

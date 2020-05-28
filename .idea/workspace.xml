@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2c0588d-c09c-4410-85b6-b0d4f1bcbf6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bzy4u6v1lZlPZ2jemxIFiNd4rl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqlsamples.App" />
+      <module name="SqlServerSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqlsamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactsAndDimensions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sqlsamples.FactsAndDimensions" />
+      <module name="SqlServerSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqlsamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.FactsAndDimensions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c0588d-c09c-4410-85b6-b0d4f1bcbf6e" name="Default Changelist" comment="" />
+      <created>1589649028362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589649028362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="276" key="#com.intellij.ide.util.MemberChooser" timestamp="1589801312495">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1589801312495" />
+    <state width="1750" height="179" key="GridCell.Tab.0.bottom" timestamp="1590507218495">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="179" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1590507218495" />
+    <state width="1750" height="179" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1590506685083" />
+    <state width="1750" height="179" key="GridCell.Tab.0.center" timestamp="1590507218494">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="179" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1590507218494" />
+    <state width="1750" height="179" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1590506685079" />
+    <state width="1750" height="179" key="GridCell.Tab.0.left" timestamp="1590507218494">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="179" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1590507218494" />
+    <state width="1750" height="179" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1590506685078" />
+    <state width="1750" height="179" key="GridCell.Tab.0.right" timestamp="1590507218495">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="179" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1590507218495" />
+    <state width="1750" height="179" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1590506685082" />
+    <state x="384" y="99" key="SettingsEditor" timestamp="1589970183061">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="99" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1589970183061" />
+    <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1589654106440" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1590655581692">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590655581692" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1590485763067" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1589786068956">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1589786068956" />
+  </component>
+</project>
